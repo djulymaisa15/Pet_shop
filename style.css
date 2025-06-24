@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #FF1493;
-    color: #66CDAA;
+    color:#C71585;
     line-height: 1.6;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 .button.primary {
-    background-color:#696969
+    background-color:#696969;
     color: #fff;
     border: 2px solid #007bff;
 }
