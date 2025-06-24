@@ -24,7 +24,7 @@ body {
 }
 
 .button.primary {
-    background-color:#696969;
+    background-color:#DB7093;
     color: #fff;
     border: 2px solid #007bff;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .button.secondary:hover {
-    background-color: #007bff;
+    background-color: #DB7093;
     color: #fff;
     transform: translateY(-2px);
     box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
